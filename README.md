@@ -23,4 +23,8 @@ Some important configurations:
 * if\_margin: whether to use softmax margin
 
 
+## Data & Hyperparamters
 
+The full GENIA data can be found [here](https://gitlab.com/sutd_nlp/overlapping_mentions/tree/master/data/GENIA). 
+
+To reproduce the results in this paper, all the hyperparameters are listed in the [supplementary paper](http://www.statnlp.org/research/ie/emnlp2018-semi-supp.pdf).
